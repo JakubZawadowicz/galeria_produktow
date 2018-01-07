@@ -1,0 +1,14 @@
+/*responsive styles*/
+
+@media all and (max-width: 991px) {
+    .product {
+        width: 48%;
+    }
+}
+
+@media all and (max-width: 479px) {
+    section,
+    .product {
+        width: 99%;
+    }
+}
